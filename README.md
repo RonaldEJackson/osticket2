@@ -1,5 +1,6 @@
 <p align="center">
 <img src="https://imgur.com/dXI35O0.png alt="Traffic Examination"/>
+
 </p>
 <br />
 <br />
@@ -21,6 +22,8 @@
 <br />
 
 Step 1. Install / Enable IIS in Windows WITH CGI (World Wide Web Services -> Application Development Features -> [X] CGI)
+
+<img src="https://github.com/RonaldEJackson/osticket2/assets/139793737/f18b0000-5978-488c-8676-622597748a6b"/>
 
 <p align="center">
 <img src="https://imgur.com/TLFqV00.png alt="Traffic Examination"/>
